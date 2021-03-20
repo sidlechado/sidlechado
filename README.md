@@ -1,6 +1,6 @@
 ### Hi there, I'm Sidnei Lechado or as you may call me Sid :)
 
-- 💻 Application Developer at IBM
+- 💻 Software Engineer at IBM
 - 🇧🇷 Born and living in Brazil <br>
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with any projects that use Vue, ReactJS, React Native, Node, and Python as those are my main languages at the moment
